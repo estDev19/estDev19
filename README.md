@@ -3,11 +3,10 @@
 
 - 🌱 I’m currently learning **Java Server Page, ASP.NET**
 
-- 💬 Ask me about **C++, C#, Java, HTML, CSS**
+- 💬 Ask me about **C++, C#, Java, HTML, CSS, SQL**
 
 - 📫 How to reach me **esteban03co@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
