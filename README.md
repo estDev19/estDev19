@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java Server Page, ASP.NET**
 
-- 💬 Ask me about **C++, C#, Java, HTML, CSS, SQL**
+- 💬 Ask me about **C++, Java, HTML, CSS, SQL, JSP**
 
 - 📫 How to reach me **esteban03co@gmail.com**
 
