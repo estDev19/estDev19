@@ -7,8 +7,7 @@
 
 - 📫 How to reach me **esteban03co@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<h3><a href="esteban03co@gmail.com" target="_blank" rel="noreferrer">esteban03co@gmail.com</a></h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 </p>
 
