@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Esteban</h1>
 <h3 align="center">A software engineering student, at National University of Costa Rica</h3>
 
-- 🌱 I’m currently learning **Java Server Page, ASP.NET**
+- 🌱 I’m currently learning **ASP.NET, REACT**
 
 - 💬 Ask me about **C++, Java, HTML, CSS, SQL, JSP**
 
