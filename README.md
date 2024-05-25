@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Esteban Castro Oviedo Nice to have you here ;)</h1>
+<h1 align="center">Hi 👋, I'm Esteban Castro Oviedo, nice to have you here ;)</h1>
 <h3 align="center">A passionate fullstack developer and IA-ML entusiast from Costa Rica</h3>
 
 - 🔭 I’m currently working on **Movile project**
