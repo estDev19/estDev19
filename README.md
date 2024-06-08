@@ -6,11 +6,9 @@
 
 - 🌱 I’m currently learning **Nest using typescript, UiPath**
 
-- 🤝 I’m looking for help with **Web development**
-
 - 👨‍💻 All of my projects are available at [https://github.com/estDev19](https://github.com/estDev19)
 
-- 💬 Ask me about **React, Springboot, SQL and others**
+- 💬 Ask me about **Web development, React, Springboot, SQL and others**
 
 - ⚡ Fun fact **I like to play guitar**
 
