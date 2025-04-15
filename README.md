@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Esteban Castro Oviedo</h1>
-<h3 align="center">A passionate fullstack developer, systems engineer student and IA-ML enthusiast from Costa Rica</h3>
+<h3 align="center">A passionate systems engineer and IA-ML enthusiast from Costa Rica</h3>
 <h2 align="center">Nice to have you here ;)</h2>
 
-- 🔭 I’m currently working on **Movile project**
+- 🔭 I’m currently working on **Automation, cloud and AI-ML integrations**
 
 - 🌱 I’m currently learning **Nest using typescript, UiPath**
 
-- 👨‍💻 All of my projects are available at [https://github.com/estDev19](https://github.com/estDev19)
+- 💬 Ask me about **ReactJS, Typescript, Java, Python, C++, Springboot, SQL and others**
 
-- 💬 Ask me about **Web development, React, Springboot, SQL and others**
-
-- ⚡ Fun fact **I like to play guitar**
+- ⚡ Fun fact **I also play guitar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/esteban-castro-2b8009275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/esteban-castro-2b8009275" height="30" width="40" /></a>
-www.linkedin.com/in/esteban-castro-2b8009275
+<a href="www.linkedin.com/in/estebancastrooviedo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/esteban-castro-2b8009275" height="30" width="40" /></a>
+www.linkedin.com/in/estebancastrooviedo
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
